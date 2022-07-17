@@ -1,8 +1,8 @@
-const username = "Liza";
-const city = "New York";
+const username = "Eric";
+const city = "Nairobi, Kenya";
 
 const image = "https://i.imgur.com/mV8PQxj.gif";
 
-export { username, city, image }
-
 // export all three variables as named exports
+
+export { username, city, image }
